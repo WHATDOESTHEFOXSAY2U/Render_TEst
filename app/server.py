@@ -9,7 +9,7 @@ from starlette.middleware.cors import CORSMiddleware
 from starlette.responses import HTMLResponse, JSONResponse
 from starlette.staticfiles import StaticFiles
 
-export_file_url = 'https://www.wonderplugin.com/wordpress-tutorials/how-to-apply-for-a-google-drive-api-key/'
+export_file_url = 'https://drive.google.com/uc?export=download&id=1-LwaARd1D-SFniB86QB2I1BAdwytX3bL'
 export_file_name = 'export.pkl'
 
 classes = ['emms', 'gal', 'taylor']
